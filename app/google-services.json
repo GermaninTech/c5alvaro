@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040717260880",
+    "project_id": "c5alvaaro",
+    "storage_bucket": "c5alvaaro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040717260880:android:29ffd8ec947281d0eac955",
+        "android_client_info": {
+          "package_name": "com.example.c5alvaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0w-1FIWrCZ3HQKgk9iZMb410zAmlfRBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

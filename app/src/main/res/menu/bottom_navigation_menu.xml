@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/activitatsFragment"
+        android:icon="@drawable/activitat"
+        android:title="Activitats"/>
+    <item
+        android:id="@+id/novaActivitatFragment"
+        android:icon="@drawable/nova_activitat"
+        android:title="Nova Activitat"/>
+    <item
+        android:id="@+id/resumFragment"
+        android:icon="@drawable/resum"
+        android:title="Resum Activitat"/>
+    <item
+        android:id="@+id/ajudaFragment"
+        android:icon="@drawable/ajuda"
+        android:title="Ajuda"/>
+</menu>
